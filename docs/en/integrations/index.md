@@ -30,15 +30,13 @@ Welcome to the Ultralytics Integrations page! This page provides an overview of 
 
 - [Ray Tune](ray-tune.md): Optimize the hyperparameters of your Ultralytics models at any scale.
 
-- [TensorBoard](tensorboard.md): Visualize your Ultralytics ML workflows, monitor model metrics, and foster team collaboration.
+- [TensorBoard](https://tensorboard.dev/): Visualize your Ultralytics ML workflows, monitor model metrics, and foster team collaboration.
 
 - [Weights & Biases (W&B)](weights-biases.md): Monitor experiments, visualize metrics, and foster reproducibility and collaboration on Ultralytics projects.
 
-- [Amazon SageMaker](amazon-sagemaker.md): Leverage Amazon SageMaker to efficiently build, train, and deploy Ultralytics models, providing an all-in-one platform for the ML lifecycle.
-
 ## Deployment Integrations
 
-- [Neural Magic](neural-magic.md): Leverage Quantization Aware Training (QAT) and pruning techniques to optimize Ultralytics models for superior performance and leaner size.
+- [Neural Magic](https://neuralmagic.com/): Leverage Quantization Aware Training (QAT) and pruning techniques to optimize Ultralytics models for superior performance and leaner size.
 
 - [OpenVino](openvino.md): OpenVINO is Intel's toolkit for optimizing and deploying computer vision models efficiently across various Intel hardware platforms.
 
